@@ -3,7 +3,7 @@
 # --- REQUIRED: Fill these in ---
 # Telegram API Credentials (from my.telegram.org)
 API_ID = 20071888 # Replace with your API ID
-API_HASH = "1c4cb9d94b23282abd9ae2a87a521b53""
+API_HASH = "1c4cb9d94b23282abd9ae2a87a521b53"
 BOT_TOKEN = "8066537886:AAF-EiZ8tdqxL3-ZI8oJtWDe7ACl7QJI8nM"
 
 # Your private channel ID where files are stored
