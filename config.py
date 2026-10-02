@@ -2,18 +2,18 @@
 
 # --- REQUIRED: Fill these in ---
 # Telegram API Credentials (from my.telegram.org)
-API_ID = 8328942211 # Replace with your API ID
-API_HASH = "YOUR_API_HASH"
-BOT_TOKEN = "YOUR_BOT_API_TOKEN"
+API_ID = 20071888 # Replace with your API ID
+API_HASH = "1c4cb9d94b23282abd9ae2a87a521b53""
+BOT_TOKEN = "8066537886:AAF-EiZ8tdqxL3-ZI8oJtWDe7ACl7QJI8nM"
 
 # Your private channel ID where files are stored
-DB_CHANNEL = -88994477333  # Replace with your channel ID
+DB_CHANNEL = -1002361250069 # Replace with your channel ID
 
 # Your user ID and any other admin user IDs
-ADMINS = [123456789, 987654321]  # Replace with actual Telegram user IDs
+ADMINS = [7040944963]  # Replace with actual Telegram user IDs
 
 # Your API token from ShrinkEarn.com
-SHORTENER_API = "YOUR_SHRINKEARN_API_TOKEN"
+SHORTENER_API = ""
 
 # --- DEFAULT SETTINGS (Can be changed from the admin panel) ---
 DEFAULT_UPI_HANDLE = "your-upi-id@okhdfcbank"
