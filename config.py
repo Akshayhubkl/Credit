@@ -13,7 +13,7 @@ DB_CHANNEL = -1002361250069 # Replace with your channel ID
 ADMINS = [7040944963]  # Replace with actual Telegram user IDs
 
 # Your API token from ShrinkEarn.com
-SHORTENER_API = ""
+SHORTENER_API = "e91105ac13c652500c6d606bf27b2e3e2fbff1d0"
 
 # --- DEFAULT SETTINGS (Can be changed from the admin panel) ---
 DEFAULT_UPI_HANDLE = "your-upi-id@okhdfcbank"
