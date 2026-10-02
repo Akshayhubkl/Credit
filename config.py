@@ -22,7 +22,7 @@ DEFAULT_PAYMENT_LINK = "https://upi.pe/your-link" # Example Link
 DEFAULT_AUTO_DELETE_MINUTES = 10 # Default time in minutes for files to be deleted after sending
 
 # Your username for users to send payment screenshots to
-PAYMENT_ADMIN = "YOUR_TELEGRAM_USERNAME" # IF YOU DON'T HAVE USERNAME, USE YOUR TELEGRAM ID
+PAYMENT_ADMIN = "@premiumxu" # IF YOU DON'T HAVE USERNAME, USE YOUR TELEGRAM ID
 
 # --- TEXT CONFIGURATION ---
 USER_WELCOME_TEXT = "👋 Welcome, {name}!**\n\nI am your file assistant, Sarah. To get a file, simply click on a valid link."
